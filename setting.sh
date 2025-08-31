@@ -2,9 +2,9 @@
 clear
 # Hiển thị menu tùy chọn
 echo "tool này mình viết mục đích cho anh em đào coin tiện lợi trong quá trình setting và nhanh nhất có thể ai có thắch mắc hoặc góp ý ib mình " 
-echo "  ~~  Manh Mobile 0898707968   ~~ "
+echo "  ~~  LEENIS BOXPHONEFARM   ~~ "
 sleep 3
-echo "https://www.facebook.com/levan.manh.739978/"
+echo "https://www.facebook.com/truongsinh55996/"
 echo "Chọn một số tùy chọn :"
 echo " 1   2   3  4  0 "
 echo "1. Chạy lệnh đầu dero"
